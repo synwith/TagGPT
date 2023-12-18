@@ -1,6 +1,5 @@
-# TagGPT
+# TagGPT,让Prompt更简单高效
 
-## 让Prompt更简单高效
 
 使用Tag(标签）来写Prompt，简单灵活高效，普通老百姓就可以做到！
 
