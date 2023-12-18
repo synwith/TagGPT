@@ -30,9 +30,13 @@ Step by Step: 要深入浅出，按照Action的指示启发拓展撰写。内容
 ## 示例二:
 
 # generate_code
+
 角色： <Role>
+
 目标： <Goal>
+
 步骤：
+
 - 步骤一： <Action1>
 - 步骤二： <Action2>
 
