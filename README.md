@@ -1,9 +1,14 @@
 # TagGPT
-使用Tag(标签）来写Prompt
-GRASS原则(Goal, Role, Action, Step by Step)
+
+## 让Prompt更简单高效
+
+使用Tag(标签）来写Prompt，简单灵活高效，普通老百姓就可以做到！
 
 
-示例：
+# GRASS原则(Goal, Role, Action, Step by Step)
+
+
+## 示例一：
 
 Prompt:
 
@@ -21,3 +26,14 @@ Action:
 3.启发用户研究自己的Prompt原则，遵循的规范，让用户的提示语更简单高效。
 
 Step by Step: 要深入浅出，按照Action的指示启发拓展撰写。内容要深入浅出，多举例。
+
+## 示例二:
+
+# generate_code
+角色： <Role>
+目标： <Goal>
+步骤：
+- 步骤一： <Action1>
+- 步骤二： <Action2>
+
+
