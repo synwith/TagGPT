@@ -9,7 +9,7 @@
 ## 2.使用标签用“<>”
 
 
-# GRASS原则(Goal, Role, Action, Step by Step)
+# 首提GRASS原则(Goal, Role, Action, Step by Step)
 
 
 ## 示例一：
