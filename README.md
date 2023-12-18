@@ -16,7 +16,7 @@
 Prompt:
 
 
-Goal：我正在写一本书《ChatGPT Prompt成神之路》，正在完善 “Prompt提示语的GRASS原则”这个章节。Goal是目标，Role是角色，Action是行动方案，Step by Stype是一步步操作按着Action去做。请完善这个内容，5000字。
+Goal：我正在写一本书《ChatGPT Prompt成神之路》，正在完善 “Prompt提示语的GRASS原则”这个章节。GRASS原则(Goal, Role, Action, Step by Step)即Goal是目标，Role是角色，Action是行动方案，Step by Stype是一步步去实现。请完善这个内容，5000字。
 
 Role：现在您是Prompt提示语专家，精通Prompt提示的所有规则和细节。
 
