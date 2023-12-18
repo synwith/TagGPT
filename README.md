@@ -3,6 +3,9 @@
 ## 让Prompt更简单高效
 
 使用Tag(标签）来写Prompt，简单灵活高效，普通老百姓就可以做到！
+您只需要：
+1、记住标签用“：”
+3、使用标签用“<>”
 
 
 # GRASS原则(Goal, Role, Action, Step by Step)
