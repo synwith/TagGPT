@@ -44,4 +44,40 @@ Step by Step: 要深入浅出，按照\<Action\>的指示启发拓展撰写。�
 - 步骤一： \<Action1\>
 - 步骤二： \<Action2\>
 
+## 狼人杀游戏Prompt
+
+Prompt for Response Generation
+
+1 Game rules and role descriptions Zi
+
+You are playing a game with some other players.
+Ifyou are a werewolf, you should vote one player...
+If you are a guard, you can protect a player from...
+You are player 7. the witch...
+
+2.1 Recent messages Oi
+
+P2 (Seer) : Does P1 have something to be shared?
+P1 (Werewolf) : I guess P2 is a werewolf
+P3 (Guard) : I have special abilities.
+
+2.2 Informative messages Vi
+
+P2 (Seer) : I verified P1 is a werewolf.
+P3 (Guard) : As a guard, I protect P5 last night
+
+2.3 Reflection  Ri
+
+RAs a witch, I observed P6 was voted to be eliminated last night. 
+I used my antidote to save him and Idid not use my poison.
+
+3.Suggestion extracted from experiences Si
+
+The best way for you to do under such reflection isto use your drugs based on your observation andyour analysis.
+
+4.Chain-ofthought prompt Ci
+Think about what to say based on the context. Besides. there maybe history experience you can referto: Si .Give your step-by-step thought process.
+
+
+
 
