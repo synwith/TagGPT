@@ -10,11 +10,17 @@
 
 
 # 首提GRASS原则(Goal, Role, Action, Step by Step)
+
 ## GRASS
+
 ## GOAL: 目标（你想从GPT获得什么？）
+
 ## ROLE：角色（让GPT扮演什么角色来实现目标）
+
 ## ACTION：行动（角色如何采取行动达成目标）
+
 ## STEP by STEP:（步骤，步步为营。在行动中，每个细节怎么做，从复杂中分解出一步步,Step by Step）
+
 
 
 
