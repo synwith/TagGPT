@@ -55,7 +55,7 @@ Step by Step: 要深入浅出，按照\<Action\>的指示启发拓展撰写。�
 - 步骤一： \<Action1\>
 - 步骤二： \<Action2\>
 
-## 狼人杀游戏Prompt（清华提供，注意Zi  OI  Vi  Ri Ci这样的tag）
+## 狼人杀游戏Prompt（清华提供，注意Zi  Oi  Vi  Ri Ci这样的tag）
 
 Prompt for Response Generation
 
