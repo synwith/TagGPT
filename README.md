@@ -86,7 +86,7 @@ I used my antidote to save him and Idid not use my poison.
 
 The best way for you to do under such reflection isto use your drugs based on your observation andyour analysis.
 
-4.Chain-ofthought prompt Ci
+4.Chain-of-thought prompt Ci
 Think about what to say based on the context. Besides. there maybe history experience you can referto: Si .Give your step-by-step thought process.
 
 
