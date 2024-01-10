@@ -8,7 +8,7 @@
 您只需要：
 
 ## 1.记住标签用“：”
-## 2.使用标签用“<>”
+## 2.使用标签用“{}”
 
 
 # 首提GRASS原则(Goal, Role, Action, Step by Step)
@@ -42,7 +42,7 @@ Action:
 
 3.启发用户研究自己的Prompt原则，遵循的规范，让用户的提示语更简单高效。
 
-Step by Step: 要深入浅出，按照\<Action\>的指示启发拓展撰写。内容要深入浅出，多举例。
+Step by Step: 要深入浅出，按照{Action}的指示启发拓展撰写。内容要深入浅出，多举例。
 
 ## 示例二:狼人杀游戏Prompt（清华提供，注意Zi  Oi  Vi  Ri Ci这样的tag）
 
