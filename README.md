@@ -78,6 +78,31 @@ The best way for you to do under such reflection isto use your drugs based on yo
 4.Chain-of-thought prompt Ci
 Think about what to say based on the context. Besides. there maybe history experience you can referto: Si .Give your step-by-step thought process.
 
+游戏规则和角色描述 Zi
+你正在和其他玩家一起玩一个游戏。如果你是狼人，你应该投票给一名玩家... 如果你是守卫，你可以保护一名玩家免受... 你是第7号玩家。女巫...
+
+2.1 最近的消息 Oi
+
+P2（预言家）：P1有什么需要分享的吗？P1（狼人）：我猜P2是狼人。P3（守卫）：作为守卫，我有特殊能力。
+
+2.2 信息性消息 Vi
+
+P2（预言家）：我验证了P1是狼人。P3（守卫）：作为守卫，我昨晚保护了P5。
+
+2.3 反思 Ri
+
+作为女巫，我观察到P6昨晚被投票淘汰。我使用了解毒剂来救他，并且我没有使用我的毒药。
+
+从经验中提取的建议 Si
+在这种情况下，你最好的行动方式是根据你的观察和分析来使用你的药水。
+
+思路链提示 Ci 根据上下文思考你要说什么。此外，你可能可以参考历史经验：Si .给出你的逐步思考过程。
+
+
+
+
+
+
 ## 智谱智能体的Prompt完全符合TagGPT的思路，如下
 
 身份:
