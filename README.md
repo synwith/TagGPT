@@ -25,10 +25,7 @@
 
 
 
-## 示例一：
-
-Prompt:
-
+## 示例一：撰写电子书、写书等
 
 Goal：我正在写一本书《ChatGPT *****》，正在完善 “Prompt提示语的GRASS原则”这个章节。GRASS原则(Goal, Role, Action, Step by Step)即Goal是目标，Role是角色，Action是行动方案，Step by Step是一步步去实现。请完善这个内容，5000字。
 
