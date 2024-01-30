@@ -1,4 +1,4 @@
-# 最简洁的提示语结构化方案TagGPT
+# TagGPT：最简洁的提示语结构化
 
 # TagGPT,让Prompt更简单高效
 
